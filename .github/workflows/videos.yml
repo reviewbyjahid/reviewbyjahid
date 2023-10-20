@@ -11,7 +11,7 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           comment_tag_name: VID
-          channel_id: UCNcnqL0P17hISKlOxTjkJ0g
+          channel_id: UCDREJFICVjSgFOGn-8zElUQ
           lang: en
           max_videos: 9
           card_width: 250
