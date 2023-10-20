@@ -1,8 +1,8 @@
 name: Contributions
 
 on:
-  workflow_dispatch: # execute manually
-  schedule: # execute every 23 hours
+  workflow_dispatch: # Execute manually
+  schedule: # Execute every 23 hours
     - cron: "0 23 * * *"
 
 jobs:
