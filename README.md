@@ -32,60 +32,7 @@
  <summary><h3>Latest YouTube Video</h3></summary>
 
 <!-- BEGIN VID -->
-<a href="https://www.youtube.com/watch?v=VLc4q8A93mA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VLc4q8A93mA&title=What+is+Callback+in+JS+%3F+%7C+Javascript+tutorial&lang=en&timestamp=1697614427&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=841">
-    <img src="https://ytcards.demolab.com/?id=VLc4q8A93mA&title=What+is+Callback+in+JS+%3F+%7C+Javascript+tutorial&lang=en&timestamp=1697614427&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=841" alt="What is Callback in JS ? | Javascript tutorial" title="What is Callback in JS ? | Javascript tutorial">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=dpfrNqU6pyA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dpfrNqU6pyA&title=Top+5+Reasons+to+learn+Playwright+%23letcode+%23playwright++%23selenium&lang=en&timestamp=1697135147&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=57">
-    <img src="https://ytcards.demolab.com/?id=dpfrNqU6pyA&title=Top+5+Reasons+to+learn+Playwright+%23letcode+%23playwright++%23selenium&lang=en&timestamp=1697135147&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=57" alt="Top 5 Reasons to learn Playwright #letcode #playwright  #selenium" title="Top 5 Reasons to learn Playwright #letcode #playwright  #selenium">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=q_VKf0dOkCg">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=q_VKf0dOkCg&title=Frequently+asked+string+programs+%7C+JS+Interview&lang=en&timestamp=1695923914&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=686">
-    <img src="https://ytcards.demolab.com/?id=q_VKf0dOkCg&title=Frequently+asked+string+programs+%7C+JS+Interview&lang=en&timestamp=1695923914&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=686" alt="Frequently asked string programs | JS Interview" title="Frequently asked string programs | JS Interview">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=oISwTAiwGKI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oISwTAiwGKI&title=How+to+fix+ChromeDriver+issue+in+Selenium+3+and+4+versions%3F+%7C+Selenium+Java&lang=en&timestamp=1692860769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=708">
-    <img src="https://ytcards.demolab.com/?id=oISwTAiwGKI&title=How+to+fix+ChromeDriver+issue+in+Selenium+3+and+4+versions%3F+%7C+Selenium+Java&lang=en&timestamp=1692860769&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=708" alt="How to fix ChromeDriver issue in Selenium 3 and 4 versions? | Selenium Java" title="How to fix ChromeDriver issue in Selenium 3 and 4 versions? | Selenium Java">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=CvbERx5lj7M">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CvbERx5lj7M&title=Playwright+Interview+Questions+and+Answers&lang=en&timestamp=1691602980&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=996">
-    <img src="https://ytcards.demolab.com/?id=CvbERx5lj7M&title=Playwright+Interview+Questions+and+Answers&lang=en&timestamp=1691602980&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=996" alt="Playwright Interview Questions and Answers" title="Playwright Interview Questions and Answers">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=4G8c7BwHY5s">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4G8c7BwHY5s&title=Find+broken+images+%7C+Playwright+Typescript++-+Part+100&lang=en&timestamp=1689615598&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=514">
-    <img src="https://ytcards.demolab.com/?id=4G8c7BwHY5s&title=Find+broken+images+%7C+Playwright+Typescript++-+Part+100&lang=en&timestamp=1689615598&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=514" alt="Find broken images | Playwright Typescript  - Part 100" title="Find broken images | Playwright Typescript  - Part 100">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=FqKLY_2iepc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FqKLY_2iepc&title=Better+assertion+less+failures+%7C+Selenium+vs+Playwright+-+Part+3&lang=en&timestamp=1688460162&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=271">
-    <img src="https://ytcards.demolab.com/?id=FqKLY_2iepc&title=Better+assertion+less+failures+%7C+Selenium+vs+Playwright+-+Part+3&lang=en&timestamp=1688460162&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=271" alt="Better assertion less failures | Selenium vs Playwright - Part 3" title="Better assertion less failures | Selenium vs Playwright - Part 3">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=49A0m5rwm9w">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=49A0m5rwm9w&title=There+is+no+Element+Click+Intercepted+Exception+%7C+Selenium+VS+Playwright+-+Part+2&lang=en&timestamp=1688405234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=287">
-    <img src="https://ytcards.demolab.com/?id=49A0m5rwm9w&title=There+is+no+Element+Click+Intercepted+Exception+%7C+Selenium+VS+Playwright+-+Part+2&lang=en&timestamp=1688405234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=287" alt="There is no Element Click Intercepted Exception | Selenium VS Playwright - Part 2" title="There is no Element Click Intercepted Exception | Selenium VS Playwright - Part 2">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=WkZAWuRqlVw">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WkZAWuRqlVw&title=There+is+no+Stale+Element+Reference+Exception+%7C+Selenium+VS+Playwright+-+Part+1&lang=en&timestamp=1688379341&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=433">
-    <img src="https://ytcards.demolab.com/?id=WkZAWuRqlVw&title=There+is+no+Stale+Element+Reference+Exception+%7C+Selenium+VS+Playwright+-+Part+1&lang=en&timestamp=1688379341&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=433" alt="There is no Stale Element Reference Exception | Selenium VS Playwright - Part 1" title="There is no Stale Element Reference Exception | Selenium VS Playwright - Part 1">
-  </picture>
-</a>
+
 <!-- END VID -->
 
 ---
