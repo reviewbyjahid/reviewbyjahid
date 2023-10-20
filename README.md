@@ -7,21 +7,21 @@
 </p>
 
 <p align="center">
-<img alt="Profile Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=connecttojahid&style=for-the-badge&color=29bf12"/>
-  <img alt="Last Update" title="Last Update" src="https://img.shields.io/github/last-commit/connecttojahid/connecttojahid?logo=markdown&label=LAST+UPDATE&color=29bf12&style=for-the-badge"/>
+<img alt="Profile Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=reviewbyjahid&style=for-the-badge&color=29bf12"/>
+  <img alt="Last Update" title="Last Update" src="https://img.shields.io/github/last-commit/reviewbyjahid/reviewbyjahid?logo=markdown&label=LAST+UPDATE&color=29bf12&style=for-the-badge"/>
 </p>
 <p align="center">
-      <a href="https://youtube.com/channel/UCA_8UJgFWmFQ4byY0OaYxYA?sub_confirmation=1">
+      <a href="https://youtube.com/@ReviewByJahid">
          <img alt="YouTube Channel" title="YouTube Channel" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a> 
-      <a href="https://facebook.com/connecttojahid">
+      <a href="https://facebook.com/ReviewByJahid">
          <img alt="FaceBook Page" title="FaceBook Page" src="https://img.shields.io/badge/FaceBook-%234267B2.svg?logo=FaceBook&logoColor=white"/></a>
       <a href="mailto:mail@jahid.eu.org">
          <img alt="Mail Account" title="Mail Account" src="https://img.shields.io/badge/Mail-%23c71610.svg?logo=Gmail&logoColor=white"/></a>
-      <a href="https://twitter.com/connecttojahid">
+      <a href="https://twitter.com/ReviewByJahid">
          <img alt="Twitter Account" title="Twitter Account" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a>
-      <a href="https://instagram.com/connecttojahid">
+      <a href="https://instagram.com/ReviewByJahid">
          <img alt="Instagram Account" title="Instagram Account" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-      <a href="https://linkedin.com/in/connecttojahid">
+      <a href="https://linkedin.com/in/ReviewByJahid">
          <img alt="Linkedin Account" title="Linkedin Account" src="https://img.shields.io/badge/Linkedin-%230072b1.svg?logo=Linkedin&logoColor=white"/></a>
 </p>
 
@@ -53,7 +53,7 @@
 <details open>
  <summary><h3>GitHub Trophies</h3></summary>
 
-<img alt="GitHub Trophies" title="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=connecttojahid&column=8&theme=gruvbox&no-frame=true"/>
+<img alt="GitHub Trophies" title="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=reviewbyjahid&column=8&theme=gruvbox&no-frame=true"/>
 
 ---
 
@@ -74,16 +74,16 @@
   <h3>Streak Stats</h3>
 
   <p>
-      <img title="Streak Stats" alt=CconnectToJahid Streak" src="https://streak-stats.demolab.com/?user=connecttojahid&theme=monokai-metallian&hide_border=true"/>
+      <img title="Streak Stats" alt=ReviewByJahid Streak" src="https://streak-stats.demolab.com/?user=reviewbyjahid&theme=monokai-metallian&hide_border=true"/>
   </p>
 
   <h3>GitHub Profile Stats</h3>
   <p>
-  <img alt="ConnectToJahid Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=connecttojahid&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="ReviewByJahid Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=reviewbyjahid&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   </p>
 
 ---
 
 <p align="center">
-<img alt="Contributions" title="Contributions" src="https://github.com/connecttojahid/connecttojahid/blob/contributions/snake.svg"/>
+<img alt="Contributions" title="Contributions" src="https://github.com/reviewbyjahid/reviewbyjahid/blob/contributions/snake.svg"/>
 </p>
