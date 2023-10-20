@@ -43,12 +43,7 @@
  <summary><h3>Latest Blog Posts</h3></summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [Cách đăng nhập Hotmail khi bị xác minh](https://www.toanit.com/2023/10/cach-ang-nhap-hotmail-khi-bi-xac-minh.html)
-- [SpyNote: Cảnh giác với Trojan Android ghi âm cuộc gọi và âm thanh](https://www.toanit.com/2023/10/spynote-canh-giac-voi-trojan-android.html)
-- [Các Lệnh Của Bot ROSE Telegram](https://www.toanit.com/2023/10/cac-lenh-cua-bot-rose-telegram.html)
-- [Code get token page vị trí  Facebook](https://www.toanit.com/2023/10/code-get-token-page-vi-tri-facebook.html)
-- [Tut Unlock 956 Mới Nhất](https://www.toanit.com/2023/10/tut-unlock-956-moi-nhat.html)
-- [Phần mềm độc hại DarkGate lây lan qua dịch vụ nhắn tin dưới dạng tệp PDF](https://www.toanit.com/2023/10/phan-mem-doc-hai-darkgate.html)
+- [ব্লগার পোস্টের লিংক থেকে &#39;?m=1&#39; কিভাবে রিমুভ করবেন।](http://blog.jahid.eu.org/2023/08/m1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
