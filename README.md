@@ -32,7 +32,12 @@
  <summary><h3>Latest YouTube Video</h3></summary>
 
 <!-- BEGIN VID -->
-
+<a href="https://www.youtube.com/watch?v=by8NEqw4Y4A">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=by8NEqw4Y4A&title=Cleaning+a4tech+keyboard&lang=en&timestamp=1699446619&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=969">
+    <img src="https://ytcards.demolab.com/?id=by8NEqw4Y4A&title=Cleaning+a4tech+keyboard&lang=en&timestamp=1699446619&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=969" alt="Cleaning a4tech keyboard" title="Cleaning a4tech keyboard">
+  </picture>
+</a>
 <!-- END VID -->
 
 ---
